@@ -1,0 +1,1 @@
+temp = input("enter any temp=")
